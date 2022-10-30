@@ -34,11 +34,11 @@ In-depth graphical analysis using bar graphs and pie charts.
 
 This section shows the graphical analysis of the interest of gym all over India specially in Bhopal, Madhya Pradesh where the Sparta GYM is located. The data shows the interest from last 12 months to last 18 years. 
 
-![gym interest 12 months](Graphs/gym_interest_12m.png)
+![gym interest 12 months](Graphs/gym_interest_12months.png)
 
 ![gym interest 18 years](Graphs/gym_interest_18yrs.png)
 
-![gym interest MP](Graphs/gym-interest_MP.png)
+![gym interest MP](Graphs/gym-interest_MP_india.png)
 
 ### 1.2. GYM Trend
 
