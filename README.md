@@ -6,6 +6,8 @@
 ![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/GYM-Market-Research/total)
 ![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
+![gym wallpaper](Graphs/wallpaper.png)
+
 This project represents a market research and analytics study on a gym. For the sake of the project, the gym is a made-up gym called Sparta GYM to showcase the effort instead of a real gym. This gym is a tiny business with a limited customer base that caters to the lower middle class to middle class customer group and is looking to grow. It is located in Bhopal, Madhya Pradesh, India.
 
 A thorough study has been given based on how locals' and Indians' overall interest in fitness and gyms has increased or decreased over time.
